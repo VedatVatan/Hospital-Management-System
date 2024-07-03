@@ -9,5 +9,6 @@ namespace Hospital_Management_System.DataAccess.Contexts
 {
     public class HospitalDbContext : IdentityDbContext<AppUser, AppRole, int>
     {
+        //Deneme Vedat
     }
 }
